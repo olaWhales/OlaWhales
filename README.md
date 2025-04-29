@@ -56,11 +56,11 @@ I’m a former teacher turned backend developer with a strong foundation in comp
 | Project                     | Description                                                                                             | Stack                     | Links                                           |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------------------------------------- |
 | 🌟 **Eplant**               | Event management system with user authentication, vendor roles (e.g., DJ, Caterer), and budget tracking | Java, Spring Boot, MySQL  | [GitHub](https://github.com/AtWhales/eplant)    |
-| 📒 **D\_Clutter App**       | Classifieds-like diary app (inspired by Jiji) with user authentication and CRUD entries                 | React, Spring Boot, MySQL | [GitHub](https://github.com/AtWhales/dclutter)  |
+| 📒 **D\_Clutter App**       | Classifieds-like diary app (inspired by Jiji) with user authentication and CRUD entries                 | React, Spring Boot, MySQL | [GitHub](https://github.com/AtWhales/D_CLUTTER.git)  |
 | 🛠️ **Extension Manager**   | Internal tool for SpringCore Africa to manage farmer-investor interactions with real-time data updates  | Java, Spring Boot, MySQL  | [Private Repo]                                  |
-| 🛍️ **E-Commerce Platform** | Multi-role system with product, order, and payment management                                           | Java, Spring Boot, MySQL  | [GitHub](https://github.com/AtWhales/ecommerce) |
-| 🔐 **Auth API**             | JWT-based authentication with email verification and role-based access                                  | NestJS, PostgreSQL        | [GitHub](https://github.com/AtWhales/auth-api)  |
-| 💸 **SuiPay** (In Progress) | Smart contract-based invoice/payment system; implemented core payment logic                             | Move, Java, Spring Boot   | [GitHub](https://github.com/AtWhales/suipay)    |
+| 🛍️ **E-Commerce Platform** | Multi-role system with product, order, and payment management                                           | Java, Spring Boot, MySQL  | [GitHub](https://github.com/AtWhales/whales_ecommerce.git) |
+| 🔐 **Auth API**             | JWT-based authentication with email verification and role-based access                                  | NestJS, PostgreSQL        | [GitHub](https://github.com/AtWhales/Biometric_Login.git)  |
+| 💸 **SuiPay** (In Progress) | Smart contract-based invoice/payment system; implemented core payment logic                             | Move, Java, Spring Boot   | [Move-GitHub](https://github.com/SuiPay_SmartContract.git)  | [Java-Github](https://github.com/olaWhales/SuiPay_Backend_java.git)
 
 
 ## 📢 Connect With Me
