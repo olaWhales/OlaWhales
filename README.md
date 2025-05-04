@@ -43,7 +43,7 @@ I’m a former teacher turned backend developer with a strong foundation in comp
 - Firebase Admin
 - Postman
 
-**API & Documentation:
+**API & Documentation**:
 
 - REST
 - GraphQL
