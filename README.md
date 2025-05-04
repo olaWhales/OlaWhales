@@ -60,9 +60,9 @@ I’m a former teacher turned backend developer with a strong foundation in comp
 
 | Project                     | Description                                                                                             | Stack                     | Links                                           |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------------------------------------- |
-| 🌟 **Eplant**               | Event management system with user authentication, vendor roles (e.g., DJ, Caterer), and budget tracking | Java, Spring Boot, MySQL  | [GitHub](https://github.com/olaWhales/Eplant.git)    |
+| 🌟 **Eplant** (In Progress) | Event management system with user authentication, vendor roles (e.g., DJ, Caterer), and budget tracking | Java, Spring Boot, MySQL  | [GitHub](https://github.com/olaWhales/Eplant.git)    |
 | 🛍️ **E-Commerce Platform** | Multi-role system with product, order, and payment management                                           | Java, Spring Boot, MySQL  | [GitHub](https://github.com/olaWhales/whales_ecommerce.git) |
-| 🔐 **Biometric Login**             | JWT-based authentication with email verification and role-based access                                  | NestJS, PostgreSQL        | [GitHub](https://github.com/olaWhales/Biometric_Login.git)  |
+| 🔐 **Biometric Login**      | JWT-based authentication with email verification and role-based access                                  | NestJS, PostgreSQL        | [GitHub](https://github.com/olaWhales/Biometric_Login.git)  |
 | 💸 **SuiPay** (In Progress) | Smart contract-based invoice/payment system; implemented core payment logic                             | Move, Java, Spring Boot   | [Move-GitHub](https://github.com/SuiPay_SmartContract.git)  | [Java-Github](https://github.com/olaWhales/SuiPay_Backend_java.git)
 | 🛠️ **Extension Manager**   | Internal tool for SpringCore Africa to manage farmer-investor interactions with real-time data updates  | Java, Spring Boot, MySQL  | [Private Repo]                                  |
 
