@@ -23,7 +23,6 @@ I’m a former teacher turned backend developer with a strong foundation in comp
 **Backend**:
 
 - Java, Spring Boot
-- Python, Django
 - Node.js, NestJS
 
 **Frontend (when needed)**:
@@ -43,6 +42,12 @@ I’m a former teacher turned backend developer with a strong foundation in comp
 - Vercel, Railway, Render
 - Firebase Admin
 - Postman
+
+**API & Documentation:
+
+- REST
+- GraphQL
+- Swagger / OpenAPI
 
 **Emerging Tech**:
 
