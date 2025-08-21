@@ -48,7 +48,7 @@ I’m a former teacher turned backend developer with a strong foundation in comp
 
 | Project                     | Description                                                                                             | Stack & Architecture                                      | Links                                                                 |
 |----------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------|
-| 🛍️ **E-Commerce backend**  | Multi-role system with product, order, and inventory management.                         | Java, Spring Boot, MySQL (Hexagonal Architecture, DDD)    | [GitHub](https://github.com/olaWhales/Ecommerce.git)           |
+| 🛍️ **E-Commerce Backend** | Multi-role system with product, order, and inventory management. | Java, Spring Boot, MySQL, Keycloak, Spring Security — **Hexagonal Architecture, DDD** | [GitHub](https://github.com/olaWhales/Ecommerce.git) |
 | 🌟 **Eplant** (In Progress) | Event management system with user authentication, vendor roles, and budget tracking     | Java, Spring Boot, MySQL (Layered Modular Architecture)    | [GitHub](https://github.com/olaWhales/Eplant.git)                     |
 | 🔐 **Biometric Login**      | JWT-based authentication with email verification and role-based access                  | NestJS, PostgreSQL (Layered Architecture)                 | [GitHub](https://github.com/olaWhales/Biometric_Login.git)            |
 
