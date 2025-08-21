@@ -7,78 +7,54 @@
 I’m a former teacher turned backend developer with a strong foundation in computer science principles and a passion for building scalable, secure systems. I thrive on solving real-world problems, quickly learning new technologies, and delivering clean, maintainable code. My strength lies in **conceptual clarity**, making me adaptable to any tech stack.
 
 🔎 I love asking "why" before "how" — because great developers understand the *why* behind the *code*.
-
 ## 🧠 What I Bring to the Table
 
-- **Clean, Maintainable Code**: Built an event management system (Eplant) with role-based access and vendor management using Spring Boot, ensuring scalability and security.
-- **Database Management**: Designed efficient schemas in MySQL for event management and classifieds-like apps, optimizing data retrieval.
-- **Authentication & Authorization**: Implemented secure JWT-based auth for multiple projects, including Eplant and D\_Clutter, with role-based access control.
-- **Multi-Tenant System Design**: Developed tenancy models for an e-commerce platform, handling 100+ concurrent users during testing.
-- **REST & GraphQL APIs**: Created APIs for event registration, user management, and blockchain payments.
-- **Deployment**: Deployed apps using Docker, Railway, and Render for seamless production rollouts.
-- **Fast Learner**: Mastered the Move language in 2 weeks to build a blockchain payment system on Sui Blockchain.
+- **Scalable Architecture Design**: Engineered a multi-role eCommerce backend using Java and Spring Boot, applying Hexagonal Architecture and Domain-Driven Design to ensure modularity and long-term maintainability.
+- **Clean, Maintainable Code**: Built the Eplant event management system with layered modular architecture, supporting vendor roles and secure access control.
+- **Robust Database Modeling**: Designed optimized MySQL schemas for event platforms and internal tools, improving query performance and data integrity.
+- **Secure Authentication & Authorization**: Implemented JWT-based authentication with role-based access across multiple projects, including Eplant and Biometric Login.
+- **Multi-Tenant System Design**: Developed tenancy models for eCommerce platforms, successfully tested with 100+ concurrent users.
+- **API Development**: Delivered RESTful and GraphQL APIs for user management, event registration, and blockchain-integrated payments.
+- **Production Deployment**: Deployed backend services using Docker, Railway, and Render for smooth CI/CD and scalable rollouts.
+
 
 ## 💻 Technologies I Work With
 
 **Backend**:
-
 - Java, Spring Boot
 - Node.js, NestJS
 
 **Frontend (when needed)**:
-
 - React
 - HTML, CSS, JavaScript
 
 **Databases**:
-
 - MySQL
 - PostgreSQL
 - MongoDB
 
 **Tools & DevOps**:
-
 - Docker
 - Vercel, Railway, Render
 - Firebase Admin
 - Postman
 
 **API & Documentation**:
-
 - REST
 - GraphQL
 - Swagger / OpenAPI
 
-**Emerging Tech**:
-
-- Sui Blockchain
-- Move Language
-- ZKLogin
-- System Design
-
 ## 🛠️ Selected Projects
 
-| Project                     | Description                                                                                             | Stack                     | Links                                           |
-| --------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------------------------------------- |
-| 🌟 **Eplant** (In Progress) | Event management system with user authentication, vendor roles (e.g., DJ, Caterer), and budget tracking | Java, Spring Boot, MySQL  | [GitHub](https://github.com/olaWhales/Eplant.git)    |
-| 🛍️ **E-Commerce Platform** | Multi-role system with product, order, and payment management                                           | Java, Spring Boot, MySQL  | [GitHub](https://github.com/olaWhales/whales_ecommerce.git) |
-| 🔐 **Biometric Login**      | JWT-based authentication with email verification and role-based access                                  | NestJS, PostgreSQL        | [GitHub](https://github.com/olaWhales/Biometric_Login.git)  |
-| 💸 **SuiPay** (In Progress) | Smart contract-based invoice/payment system; implemented core payment logic                             | Move, Java, Spring Boot   | [Move-GitHub](https://github.com/SuiPay_SmartContract.git)  | [Java-Github](https://github.com/olaWhales/SuiPay_Backend_java.git)
-| 🛠️ **Extension Manager**   | Internal tool for SpringCore Africa to manage farmer-investor interactions with real-time data updates  | Java, Spring Boot, MySQL  | [Private Repo]                                  |
+| Project                     | Description                                                                                             | Stack & Architecture                                      | Links                                                                 |
+|----------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------|
+| 🛍️ **E-Commerce backend**  | Multi-role system with product, order, and inventory management.                         | Java, Spring Boot, MySQL (Hexagonal Architecture, DDD)    | [GitHub](https://github.com/olaWhales/Ecommerce.git)           |
+| 🌟 **Eplant** (In Progress) | Event management system with user authentication, vendor roles, and budget tracking     | Java, Spring Boot, MySQL (Layered Modular Architecture)    | [GitHub](https://github.com/olaWhales/Eplant.git)                     |
+| 🔐 **Biometric Login**      | JWT-based authentication with email verification and role-based access                  | NestJS, PostgreSQL (Layered Architecture)                 | [GitHub](https://github.com/olaWhales/Biometric_Login.git)            |
 
-
-## 📢 Connect With Me
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/taoreed-olawale-3410b71b1/)
 - 💼 [Portfolio](https://vercel.com/ajadi-taoreed-olawales-projects)
 - ✉️ Email: [ajaditaoreed@gmail.com](mailto\:ajaditaoreed@gmail.com)
 - 💻 GitHub: [@AtWhales](https://github.com/AtWhales)
-
-## 🤝 Contributing
-
-Interested in contributing to my projects? Check out the repositories, fork them, and submit a pull request. For major changes, please open an issue first to discuss your ideas.
-
-> **"I don’t stop at what I know. I dig into what I don’t — and that’s how I grow."**
-
-Thanks for stopping by!
 
