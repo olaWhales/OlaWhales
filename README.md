@@ -1,6 +1,6 @@
 # Ajadi Taoreed Olawale — Backend Developer | Problem Solver | Fast Learner
 
-🎓 **Trained at Semicolon Africa** | 💼 **Backend Intern @ SpringCore Africa**
+🎓 **Trained at Semicolon Africa** | 💼 **Backend Intern @ SpringCore Africa** |  **Backend engineer @ Semicolon Lab** 
 
 🚀 About Me
 
